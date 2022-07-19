@@ -1,8 +1,10 @@
-# ImersaoJava-Alura
+# ImersaoJava-Alura 
+
 A imersão Java aconteceu entre os dias 18-05 a 22-05 com o objetivo de utilizar alguns recursos do cotidiano de um desenvolvedor
+## Ferramentas e Tecnologias
+<img align="left" alt="eclipse-ide" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"/><br/>
 
 ## 📚 Projetos da Aula
-
 <table>
 <tr>
     <th>Aula</th>
@@ -29,3 +31,4 @@ A imersão Java aconteceu entre os dias 18-05 a 22-05 com o objetivo de utilizar
   <td>Publicando nossa API no Cloud</td>
 </tr>
 </table>
+<br/>
