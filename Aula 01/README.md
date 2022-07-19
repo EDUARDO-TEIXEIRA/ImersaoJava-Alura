@@ -7,10 +7,10 @@ O projeto consiste em acessar uma API coletando o ranking dos top 250 filmes mai
 
 [Classe](https://gist.github.com/alexandreaquiles/cf337d3bcb59dd790ed2b08a0a4db7a3) de conversão para converter o Json em string: 
 
-#### Ferramentas Utilizadas
+#### FERRAMENTAS UTILIZADAS
 <img align="left" alt="eclipse-ide" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"/><br/>
 
-#### Desafios desta aula
+#### DESAFIOS DA AULA
 ☑️ **Concluídos**<br/>
 ❌ **Não concluídos**<br/>
 
@@ -20,7 +20,7 @@ O projeto consiste em acessar uma API coletando o ranking dos top 250 filmes mai
 ❌ Mudar o JsonParser para usar uma biblioteca de parsing de JSON como Jackson ou GSON.<br/>
 ❌ Desafio supremo: criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.<br/>
 
-#### Documentação
+#### DOCUMENTAÇÃO
 - Artigo na Alura [“O que é JSON?”](https://www.alura.com.br/artigos/o-que-e-json).
 - [Documentação](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpRequest.html) da classe HttpRequest do pacote java.net.http.
 - [Site](https://regex101.com/) que ajuda a entender Expressões Regulares.
