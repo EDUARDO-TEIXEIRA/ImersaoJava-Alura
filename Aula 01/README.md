@@ -7,9 +7,6 @@ O projeto consiste em acessar uma API coletando o ranking dos top 250 filmes mai
 
 [Classe](https://gist.github.com/alexandreaquiles/cf337d3bcb59dd790ed2b08a0a4db7a3) de conversão para converter o Json em string: 
 
-#### FERRAMENTAS UTILIZADAS
-<img align="left" alt="eclipse-ide" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"/><br/>
-
 #### DESAFIOS DA AULA
 ☑️ **Concluídos**<br/>
 ❌ **Não concluídos**<br/>
