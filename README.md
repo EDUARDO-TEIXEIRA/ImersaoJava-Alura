@@ -11,7 +11,7 @@ A imersão Java aconteceu entre os dias 18-05 a 22-05 com o objetivo de utilizar
     <th>Descrição</th>
 </tr>
 <tr>
-  <td><a href=""https://github.com/EDUARDO-TEIXEIRA/ImersaoJava-Alura/tree/main/Aula%2001"">01</a></td>
+  <td><a href="https://github.com/EDUARDO-TEIXEIRA/ImersaoJava-Alura/tree/main/Aula%2001">01</a></td>
   <td>Consumir uma API que retorna uma ranking de lista de filmes do IMDb</td>
 </tr>
 <tr> 
