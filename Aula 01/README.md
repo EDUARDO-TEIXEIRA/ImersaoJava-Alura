@@ -38,10 +38,8 @@ String url = "https://mocki.io/v1/9a7c1ca9-29b4-4eb3-8306-1adb9d159060";
 
 </table>
 <h4>📖 RESULTADO DOS DESAFIOS</h4>
-
 ![Código-Java](https://user-images.githubusercontent.com/34588048/179870714-f85d0ce4-4006-4f8a-8c18-7a721fde137b.png)
-
-<p>Resposta do JSON</p>
+Resultado obtido no arquivo JSON
 ![Resposta-JSON](https://user-images.githubusercontent.com/34588048/179870902-1114133b-27e7-46f0-875f-03e9f0c2e0d1.png)
 
 #### DOCUMENTAÇÃO
