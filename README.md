@@ -2,8 +2,8 @@
 <h1>PROJETO STICKERS 😉</h1>
 <h4>DESENVOLVIDO POR EDUARDO TEIXEIRA</h4>
 </div>
-#### 📚 Conteúdos
 <table>
+    <tr><th colspan="2">📚 Conteúdos</th></tr>
 <tr>
     <th>Aula</th>
     <th>Descrição</th>
