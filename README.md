@@ -9,7 +9,7 @@
   <td>Consumir uma API que retorna uma ranking de lista de filmes do IMDb</td>
 </tr>
 <tr> 
-  <td>02</td>
+  <td><a href="https://github.com/EDUARDO-TEIXEIRA/ImersaoJava-Alura/tree/main/Aula02">02</a></td>
   <td>Gerando figurinhas para WhatsApp</td>
 </tr>
 <tr>
