@@ -1,7 +1,8 @@
 <div align="center">
 <h1>PROJETO STICKERS 😉</h1>
-<h4>DESENVOLVIDO POR EDUARDO TEIXEIRA</h4>
-</div>
+<h4>DESENVOLVIDO POR EDUARDO TEIXEIRA</h4> <br>
+ 
+📒 O detalhamento de todas as aulas estão separadas por pastas neste diretório.  
 <table>
     <tr><th colspan="2">📚 Conteúdos</th></tr>
 <tr>
@@ -29,7 +30,9 @@
   <td>Publicando nossa API no Cloud</td>
 </tr>
 </table>
-<hr/>
+
+</div>
+
 <!--
 <div align="center">
     <p>Baixar aulas</p><a href="https://t.me/ImersaoJavaAlura" target="_blank"><img alt="aulas-gravadas" src="https://badgen.net/badge/icon/telegram?icon=telegram&label"></a>
