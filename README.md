@@ -1,5 +1,5 @@
 <div align="center">
-<h1>PROJETO STICKERS 😉</h1>
+<h1>PROJETO ALURA STICKERS 😉</h1>
 <h4>DESENVOLVIDO POR EDUARDO TEIXEIRA</h4> <br>
  
 📒 O detalhamento de todas as aulas estão separadas por pastas neste diretório.  
