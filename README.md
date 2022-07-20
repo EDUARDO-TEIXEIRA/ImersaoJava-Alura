@@ -1,5 +1,8 @@
-
-#### 📚 Projetos da Aula
+<div align="center">
+<h1>PROJETO STICKERS 😉</h1>
+<h4>DESENVOLVIDO POR EDUARDO TEIXEIRA</h4>
+</div>
+#### 📚 Conteúdos
 <table>
 <tr>
     <th>Aula</th>
