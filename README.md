@@ -29,10 +29,8 @@ A imersão Java aconteceu entre os dias 18-05 a 22-05 com o objetivo de utilizar
 </tr>
 </table>
 <hr/>
-<h2>Ferramentas Utilizadas</h2>
-<img align="left" alt="eclipse-ide" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg"/><br/>
-
-#### Aulas Gravadas
-<div aling="center">
-    <a href="https://t.me/ImersaoJavaAlura" target="_blank"><img alt="icon-telegram" src="https://badgen.net/badge/icon/telegram?icon=telegram&label"></a>
+<!--
+<div align="center">
+    <p>Baixar aulas</p><a href="https://t.me/ImersaoJavaAlura" target="_blank"><img alt="aulas-gravadas" src="https://badgen.net/badge/icon/telegram?icon=telegram&label"></a>
 </div>
+-->
