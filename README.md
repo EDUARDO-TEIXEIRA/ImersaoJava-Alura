@@ -1,8 +1,22 @@
+![image](https://user-images.githubusercontent.com/34588048/180493021-80b45e04-29c3-4928-9f48-809deecd4c59.png)
+
+
 <div align="center">
 <h1>PROJETO ALURA STICKERS 😉</h1>
-<h4>DESENVOLVIDO POR EDUARDO TEIXEIRA</h4> <br>
+<h4>DESENVOLVIDO POR EDUARDO TEIXEIRA</h4> <br/>
+</div>
+
+A **imersão java** aconteceu entre os dias <span style="color:#ffae00">18/07 a 22/07</span> gratuito pelo Youtube, além disto a Alura disponibilizou uma comunidade via discord para os participantes do evento e isto ajudou muito no apoio as dúvidas. Veja este e outros repositórios através do grupo. Agradeço aos instrutores que foram por esta oportunidade em aprender cada vez a utilizar o **#Java** 
+
+<hr/>
+
+<img src="https://user-images.githubusercontent.com/34588048/180492701-baaf033c-76b2-467d-95dd-7b8ee44e79d7.png"/>
+
  
+
+
 📒 O detalhamento de todas as aulas estão separadas por pastas neste diretório.  
+ <div align="center">
 <table>
     <tr><th colspan="2">📚 Conteúdos</th></tr>
 <tr>
