@@ -1,8 +1,11 @@
 <div align="center">
 <h1>PROJETO ALURA STICKERS 😉</h1>
-<h4>DESENVOLVIDO POR EDUARDO TEIXEIRA</h4> <br>
+<h4>EM DESENVOLVIDO POR EDUARDO TEIXEIRA</h4> <br>
  
-📒 O detalhamento de todas as aulas estão separadas por pastas neste diretório.  
+Clonando o repositório:
+
+```https://github.com/EDUARDO-TEIXEIRA/ImersaoJava-Alura.git ```
+
 <table>
     <tr><th colspan="2">📚 Conteúdos</th></tr>
 <tr>
